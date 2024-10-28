@@ -6,7 +6,7 @@
 **Analysis Levels:** 1, 2, and 3  
 
 ## 📝 Project Overview
-This project is part of my Data Science Internship at Cognifyz. The goal is to analyze restaurant data to uncover insights about cuisine popularity, pricing trends, customer preferences, and service options. The dataset includes information on restaurant locations, ratings, price ranges, and delivery availability, allowing for a comprehensive exploration across three levels of tasks.
+This project is part of my Data Analytics Internship at Cognifyz. The goal is to analyze restaurant data to uncover insights about cuisine popularity, pricing trends, customer preferences, and service options. The dataset includes information on restaurant locations, ratings, price ranges, and delivery availability, allowing for a comprehensive exploration across three levels of tasks.
 
 ## 🎯 Objectives
 - **Identify Popular Cuisines and City Trends:** Recognize the most common cuisines and key cities for restaurants.
